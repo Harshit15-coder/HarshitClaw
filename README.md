@@ -35,12 +35,13 @@ harshitclaw-build wakeup
 ```
 
 ```
-HarshitClaw v1.0
+**HarshitClaw**
 
-Wakeup calling...
+◇ Which Mode Do You Want To Choose
 
-Connected successfully.
-Ready to assist 🚀
+● CLI
+○ Telegram
+○ Exit
 ```
 
 ### Telegram
