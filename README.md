@@ -289,6 +289,7 @@ This project is licensed under the MIT License.
 B.Tech CSE | AI • Backend • Frontend • Open Source
 
 GitHub: https://github.com/harshit15-coder
+LinkedIn: [Harshit Chaturvedi](https://www.linkedin.com/in/harshit-chaturvedi-7a49bb213)
 
 ---
 
